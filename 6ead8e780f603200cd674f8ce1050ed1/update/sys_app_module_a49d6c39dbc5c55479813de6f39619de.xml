@@ -4,37 +4,39 @@
         <application display_value="Help&amp;NeedIT">0242fb8d0fa83200cd674f8ce1050e79</application>
         <assessment/>
         <device_type/>
-        <filter/>
-        <hint>List of all NeedIt records in the database.</hint>
+        <filter table="x_58872_needit_helpit">stateNOT IN3,4,7^EQ<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>StateがClosedではないHelpITテーブル内のレコードのリスト</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>NeedIts</mobile_title>
+        <mobile_title>Open HelpIT</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_needit</name>
-        <order>100</order>
+        <name>x_58872_needit_helpit</name>
+        <order>210</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_58872_needit.admin</roles>
+        <roles>x_58872_needit.helpit_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-01-24 22:46:33</sys_created_on>
+        <sys_created_on>2022-01-15 02:36:40</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c6427f010fe83200cd674f8ce1050e3f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>a49d6c39dbc5c55479813de6f39619de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Open HelpIT</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_c6427f010fe83200cd674f8ce1050e3f</sys_update_name>
+        <sys_update_name>sys_app_module_a49d6c39dbc5c55479813de6f39619de</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-15 02:37:12</sys_updated_on>
+        <sys_updated_on>2022-01-15 02:39:02</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Open HelpIT</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

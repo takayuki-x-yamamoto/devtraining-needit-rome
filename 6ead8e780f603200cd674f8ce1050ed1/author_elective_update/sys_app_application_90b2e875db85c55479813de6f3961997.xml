@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>HelpIT</name>
+        <order>100</order>
+        <roles>x_58872_needit.helpit_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-15 01:46:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90b2e875db85c55479813de6f3961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelpIT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_90b2e875db85c55479813de6f3961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-15 01:46:48</sys_updated_on>
+        <title>HelpIT</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>be075008db2c8510e62f3feb689619f4</instance_id>
+        <instance_name>demoitwf5596</instance_name>
+        <name>sys_app_application_90b2e875db85c55479813de6f3961997</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>HelpIT</name><order>100</order><roles>x_58872_needit.helpit_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-15 01:46:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>90b2e875db85c55479813de6f3961997</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HelpIT</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_90b2e875db85c55479813de6f3961997</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-15 01:46:48</sys_updated_on><title>HelpIT</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-858297770</payload_hash>
+        <record_name>HelpIT</record_name>
+        <reverted_from/>
+        <source>ac30a031db85c55479813de6f3961988</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-15 01:46:48</sys_created_on>
+        <sys_id>2cb2e875db85c55479813de6f396199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e5b6a6d780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-15 01:46:48</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>24b2e8755c85c554174222c1afaf809a</update_guid>
+        <update_guid_history>24b2e8755c85c554174222c1afaf809a:-858297770</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HelpIT">bf75acb9db85c55479813de6f39619d9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-15 01:59:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>18fa5f4e279940408de12c4185717100</sys_id>
+        <sys_metadata>90b2e875db85c55479813de6f3961997</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelpIT</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_90b2e875db85c55479813de6f3961997</sys_update_name>
+        <sys_update_version display_value="sys_app_application_90b2e875db85c55479813de6f3961997">2cb2e875db85c55479813de6f396199a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-15 01:59:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
